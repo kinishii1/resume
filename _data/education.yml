@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Software Engineering
+  uni: Descomplica
+  year: 2024 &mdash; 2028
+  summary: Descomplica is a Brazilian company that offers online courses. The course gives a broad understanding of software engineering, including programming languages, algorithms, data structures, and software development methodologies.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: FIT Bootcamp
+  uni: TRYBE
+  year: 2023 &mdash; 2024
+  awards: 
+    - award: I was awarded the best student of the class in fundamentals of web development module.
+    - award: developed a lot of group projects.
+  summary: The course is a fast-paced, full-time, 12-month program that covers the fundamentals of web development, front-end, back-end, computer science, and soft skills. The course is project-based, and students work on real-world projects in teams. The course also includes career coaching and job placement assistance.

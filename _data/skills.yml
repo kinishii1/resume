@@ -1,12 +1,42 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: React.js
+  description: Redux, React Router, React Hooks, React Context, Vitest, Jest, Next.js, Styled Components, Axios
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Node.js
+  description: Express, Mongoose, MongoDB, RESTful APIs, JWT, Bcrypt, Sequelize, Mocha, Chai
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Typescript
+  description: Types, Interfaces, Generics, Decorators, Enums, Type Guards, Type Assertions
+
+- skill: Github
+  description: Git, Github, Gitflow, Pull Requests, Code Reviews, Branching, Merging
+
+- skill: Linux
+  description: Ubuntu, command line, bash scripting, package management, permissions,
+
+- skill: SQl
+  description: MySQL, PostgreSQL, SQLite, Sequelize, DML, DDL, constraints, indexes, transactions, subqueries
+
+- skill: noSQL
+  description: MongoDB, Mongoose, 
+
+- skill: Docker
+  description: Docker, Docker Compose, Dockerfile, Docker Hub, Docker CLI
+
+- skill: Kubernetes
+  description: Kubectl, Minikube
+
+- skill: Software Architecture
+  description: MVC, REST, microservices, monolithic, SOLID principles, OOP
+
+- skill: Data Structures
+  description: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables
+
+- skill: Agile 
+  description: Scrum, Kanban, Sprint Planning
+
+- skill: Ux/UI
+  description: Figma, Wireframing, Prototyping
+
+- skill: Api Integration
+  description: REST, Postman, Swagger
