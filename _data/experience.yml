@@ -1,24 +1,22 @@
 # Jobs
-# Assistant Teacher
+- company: Living in Japan
+  position: Factory Worker
+  duration:  Sep, 2018  &mdash; May, 2023
+  summary: In this period I worked in a factory in Japan, I was responsible for the production of car parts. I learned a lot about the Japanese culture and the language. I also learned a lot about the production process and the importance of teamwork and discipline.
+
+- company: Grupo TrendFoods (Franquias China in Box e Gendai)
+  position: IT Assistant
+  duration:  Nov, 2016  &mdash; Oct, 2017
+  summary: Grupo TrendFoods is a company that owns the franchises China in Box and Gendai. I was responsible for assisting the IT manager with various tasks, such as giving internal support to the employees, managing the intranet, and helping with the implementation of new systems. Little contact with power bi and ERP systems.
+
+- company: Restaurante Mawari
+  position: Restaurant Cashier
+  duration: Alg, 2015 &mdash; Sept, 2016
+  summary: Mawari is a Japanese restaurant located in Morumbi-SP. I was responsible for taking orders, processing payments, and providing some customer service. Because the restaurant was of a high standard, many English-speaking customers came in, so I was able to practice my English with them. Also developed a little system in excel to help the restaurant manager to control the cash flow.
+
 - company: Kumon
   position: Assistant Teacher (math and portuguese)
   duration: Jan, 2012 &mdash; Jan, 2015
   summary: Kumon is a global education company that teaches math and reading to children. I was responsible for assisting the teacher in the classroom, grading papers, and helping students with their work. I also helped with administrative tasks such as answering phones, filing paperwork, and cleaning the classroom.
 
 
-# Restaurant Cashier
-- company: Restaurante Mawari
-  position: Restaurant Cashier
-  duration: Alg, 2015 &mdash; Sept, 2016
-  summary: Mawari is a Japanese restaurant located in Morumbi-SP. I was responsible for taking orders, processing payments, and providing some customer service. Because the restaurant was of a high standard, many English-speaking customers came in, so I was able to practice my English with them. Also developed a little system in excel to help the restaurant manager to control the cash flow.
-
-# IT Assistant
-- company: Grupo TrendFoods (Franquias China in Box e Gendai)
-  position: IT Assistant
-  duration:  Nov, 2016  &mdash; Oct, 2017
-  summary: Grupo TrendFoods is a company that owns the franchises China in Box and Gendai. I was responsible for assisting the IT manager with various tasks, such as giving internal support to the employees, managing the intranet, and helping with the implementation of new systems. Little contact with power bi and ERP systems.
-
-- company: Living in Japan
-  position: Factory Worker
-  duration:  Sep, 2018  &mdash; May, 2023
-  summary: In this period I worked in a factory in Japan, I was responsible for the production of car parts. I learned a lot about the Japanese culture and the language. I also learned a lot about the production process and the importance of teamwork and discipline.
